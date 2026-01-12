@@ -20,7 +20,7 @@ Tools: Git, VS Code, MySQL, XAMPP
 
 🌐 Let's Connect! 📫 Email: bankarhari02@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/haridasbankar/
+💼 LinkedIn: https://www.linkedin.com/in/bankarharidas/
 
 ## My Skills
 
