@@ -49,4 +49,4 @@ Tools: Git, VS Code, MySQL, XAMPP
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/haridasbankar/" target="_blank">Haridas Bankar</a> Email: bankarhari02@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/bankarharidas/" target="_blank">Haridas Bankar</a> Email: bankarhari02@gmail.com</p>
